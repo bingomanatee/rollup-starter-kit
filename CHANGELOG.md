@@ -1,16 +1,10 @@
-## 2.0.0
+## 1.0.0
 
-First reboot of LGE; entirely new codebase
-* no "start" functions; too tangled and confusing
-* using Rollup over Neutrino
-* note - transactions not operating yet
-
-## 2.0.1
-* fixed some stream issues
-* fixed issue with action naming
-
-## 2.0.4
-* Added transactional locking
-
-## 2.0.6
-* Removed annoying console logs
+"And I heard, as it were, the noise of thunder
+One of the four beasts saying,
+'Come and see.' and I saw, and behold a white horse"
+There's a man goin' 'round takin' names
+And he decides who to free and who to blame
+Everybody won't be treated all the same
+There'll be a golden ladder reachin' down
+When the man comes around

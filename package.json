@@ -1,7 +1,7 @@
 {
-  "name": "@wonderlandlabs/looking-glass-engine",
-  "version": "2.0.6",
-  "description": "Describe looking-glass-engine here",
+  "name": "@wonderlandlabs/rollup-starter-kit",
+  "version": "1.0.0",
+  "description": "A rollup setup for modules",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -29,10 +29,9 @@
     "rollup": "^1.22.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-terser": "^5.1.2",
     "tap": "^14.6.1"
   },
   "author": "David Edelhart",
   "license": "MIT",
-  "repository": "https://github.com/bingomanatee/schema"
+  "repository": "https://github.com/bingomanatee/rollup-starter-kit"
 }
